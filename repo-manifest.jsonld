@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/ellf-recipes/commit/4d7b28a5766a0aaf47980ed33e7e6896ff14b03e",
       "git:hexsha": "4d7b28a5766a0aaf47980ed33e7e6896ff14b03e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
